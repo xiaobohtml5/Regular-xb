@@ -1,0 +1,21 @@
+{
+  "name": "regular-xb",
+  "version": "1.0.7",
+  "description": "常见的正则检验",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "正则",
+    "校验",
+    "正则校验",
+    "正则表达式",
+    "邮箱正则",
+    "手机号正则",
+    "密码正则",
+    "url正则"
+  ],
+  "author": "肖波",
+  "license": "ISC"
+}
